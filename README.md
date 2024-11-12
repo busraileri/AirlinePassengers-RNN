@@ -1,4 +1,4 @@
-# AirlinePassengers - RNN
+# Airline Passengers - RNN
 This project aims to forecast the number of international airline passengers using the International Airline Passengers dataset from Kaggle. 
 A Recurrent Neural Network (RNN) is employed to predict future passenger numbers based on historical changes in passenger data.
 
